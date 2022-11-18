@@ -35,6 +35,7 @@
     flex-direction: row;
     align-items: center;
     gap:400px;
+    padding: 100px 100px;
 }
 
 .principal-apresentacao {
@@ -51,6 +52,5 @@
 }
 
 .minha_foto {
-    height: 400px;
-    ;
+    height: 600px;
 }
