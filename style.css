@@ -49,6 +49,25 @@
     font-family: 'Sarala', sans-serif;
     color: #dfdfdf;
     font-size: 20px;
+    display: block;
+    margin-left: 100px;
+}
+
+.conteudo-principal-botao {
+    display: block;
+    margin: auto;
+    width: 180px;
+    height: 60px;
+    border: none;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    font-family: 'Sarala', sans-serif;
+    font-weight: 400px;
+    font-size: 15px;
+}
+
+.conteudo-principal-botao:hover {
+    background-color: rgba(236, 214, 196, 0.53);
 }
 
 .minha_foto {
