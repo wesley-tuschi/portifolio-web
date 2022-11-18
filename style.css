@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+.cabecalho {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 14px;
+    
+}
+
+.cabecalho-logo-github {
+    height: 50px;
+}
+
+.cabecalho-logo-instagram {
+    height: 50px;
+}
+
+.cabecalho-logo-linkedin{
+    height: 50px;
+}
+
+.principal {
+    background-color: #0c0c0c;
+}
+
+.minha_foto {
+    height: 400px;
+}
