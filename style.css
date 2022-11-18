@@ -54,3 +54,33 @@
 .minha_foto {
     height: 600px;
 }
+
+.habilidades {
+    background-color: #131212;
+    padding-bottom: 50px;
+}
+
+.habilidades-titulo {
+    font-family: 'Righteous', cursive;
+    color: #dfdfdf;
+    font-size: 50px;
+    text-align: center;
+}
+.habilidades-logos {
+    display: block;
+    flex-direction: row;
+}
+
+.git-logo {
+    height: 350px;
+    padding-left: 400px;
+
+}
+
+.html-logo {
+    height: 400px;
+}
+
+.css-logo {
+    height: 400px;
+}
