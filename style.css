@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -30,8 +31,26 @@
 
 .principal {
     background-color: #0c0c0c;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap:400px;
+}
+
+.principal-apresentacao {
+    font-family: 'Righteous', cursive;
+    color: #dfdfdf;
+    font-size: 50px;
+    font-weight: 400px;
+}
+
+.principal-texto {
+    font-family: 'Sarala', sans-serif;
+    color: #dfdfdf;
+    font-size: 20px;
 }
 
 .minha_foto {
     height: 400px;
+    ;
 }
